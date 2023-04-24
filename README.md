@@ -1,1 +1,1 @@
-# Exercícios feito em Python
+# Exercícios em Python
